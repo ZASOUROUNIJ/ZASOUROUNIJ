@@ -15,9 +15,8 @@
 </p>
 
 ### Principais habilidades:
-![DELPHI](https://img.shields.io/badge/-Delphi-0D1117?style=for-the-badge&logo=Delphi&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Unity3D](https://img.shields.io/badge/-unity3d-0D1117?style=for-the-badge&logo=unity3d&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Delphi](https://img.shields.io/badge/-Delphi-0D1117?style=for-the-badge&logo=Delphi&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Unity3D](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=Unity&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 ### Ferramentas:
 <!--
@@ -46,5 +45,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ZASOUROUNIJ}/count.svg" /></p> 
 <br></div> 
 -->
-
+---
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=#FC8EAC&height=500&section=footer&text=capsule%20render&fontSize=90)
