@@ -13,10 +13,16 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ZASOUROUNIJ&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+<div align="center">  
+  <a href="https://www.linkedin.com/in/antonio-florentino-junior-9138781a0/" target="_blank">
+  <p>Linkedin</p>
+</div>
+
+
 
 ### Principais habilidades:
-![Delphi](https://img.shields.io/badge/-Delphi-0D1117?style=for-the-badge&logo=Delphi&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Unity3D](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=Unity&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Delphi](https://img.shields.io/badge/-Delphi-0D1117?style=for-the-badge&logo=Delphi&logoColor=red&labelColor=0D1117)&nbsp;
+![Unity3D](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=Unity&logoColor=purple&labelColor=0D1117)&nbsp;
 
 ### Ferramentas:
 <!--
