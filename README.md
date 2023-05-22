@@ -50,6 +50,8 @@
   <p>Linkedin</p>
 </div>
   
----
+
   
-![footer](https://capsule-render.vercel.app/api?type=waving&color=#FC8EAC&height=500&section=footer&text=capsule%20render&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=#FC8EAC&height=500&text=capsule%20render&fontSize=90)
+  
+  
