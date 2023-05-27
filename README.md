@@ -16,7 +16,7 @@
 
 ### Principais habilidades:
 ![Delphi](https://img.shields.io/badge/-Delphi-0D1117?style=for-the-badge&logo=Delphi&logoColor=red&labelColor=0D1117)&nbsp;
-![Unity3D](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=Unity&logoColor=purple&labelColor=0D1117)&nbsp;
+![Unity3D](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=Unity&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### Ferramentas:
 <!--
@@ -24,7 +24,7 @@
 -->
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=green&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Outros conhecimentos:
