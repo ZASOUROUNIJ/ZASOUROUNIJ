@@ -1,3 +1,4 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#FC8EAC&height=500&section=header&text=capsule%20render&fontSize=90)
 
 
@@ -19,9 +20,11 @@
 ![Unity3D](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=Unity&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### Ferramentas:
+-->
 <!--
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp; 
 -->
+<!--
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=green&labelColor=0D1117)&nbsp;
@@ -45,6 +48,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ZASOUROUNIJ}/count.svg" /></p> 
 <br></div> 
 -->
+<!--
 <div align="left">  
   <a href="https://www.linkedin.com/in/antonio-florentino-junior-9138781a0/" target="_blank">
   <p>Linkedin</p>
